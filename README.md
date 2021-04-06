@@ -1,4 +1,4 @@
-i LOVE the pain of coding
+i love the pain of coding
 
 <!---
 danielwrld/danielwrld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
